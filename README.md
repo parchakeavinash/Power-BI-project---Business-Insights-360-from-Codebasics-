@@ -50,6 +50,10 @@ Implemented the Snowflake Schema for robust data modeling.
 ➡️ Publishing Reports to Power BI Services
 
 🖥 Dashboard Views:
+![image](https://github.com/parchakeavinash/Power-BI-project---Business-Insights-360-from-Codebasics-/assets/96370088/a26c17a3-eda3-4f06-8a78-cbc57b348436)
+![image](https://github.com/parchakeavinash/Power-BI-project---Business-Insights-360-from-Codebasics-/assets/96370088/ad9e0506-72d1-4c81-9f27-04d5a4e595d6)
+
+
 
 💹 Finance View: Insights from P&L statements and sales trends.
 💰 Sales View: Growth analysis over net sales and gross margin for customers and products.
